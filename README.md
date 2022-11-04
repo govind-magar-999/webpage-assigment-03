@@ -5,4 +5,4 @@
   [https://advocate-profile-by-govind.netlify.app/](https://advocate-profile-by-govind.netlify.app/)
   
  - Screenshot:
-   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-03/blob/main/thumbnail.png)
+   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assigment-03/blob/main/thumbnail.png)
