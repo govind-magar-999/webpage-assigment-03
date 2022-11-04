@@ -1,6 +1,6 @@
 ### Assignment 03 [Non responsive webpage design]
 
-- This is second assignment of non responsive webpage design part.
+- This is third assignment of non responsive webpage design part.
 - Deployed link on netlify:
   [https://advocate-profile-by-govind.netlify.app/](https://advocate-profile-by-govind.netlify.app/)
   
